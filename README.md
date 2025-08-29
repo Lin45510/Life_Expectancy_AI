@@ -19,3 +19,15 @@ Esse projeto se trata de uma extenção do projeto scikit-learn-study. Um projet
 Esse projeto vai explorar as etapas de desenvolvimento de modelos de regressão, abordando de forma detalhada a criação dos Pipelines necessários para a automação do desenvolvimento de um modelo de Regressão. 
 
 Além disso, os processos de Validação e explicação dos modelos utilizados também serão explorados.
+
+# Resultados
+
+Aqui estão registrados os resultados obtidos pelos diferentes modelos desenvolvios nesse projeto.
+
+![Regressão Linear](/Images/Regressão%20Linear_pred.png)
+
+![!Ridge](/Images/Ridge_pred.png)
+
+![!LASSO](/Images/LASSO_pred.png)
+
+![!ElasticNet](/Images/Elastic%20Net_pred.png)
